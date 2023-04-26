@@ -1,6 +1,6 @@
 ![github](/images/icon.png)
 
-<h2 align="center">🌱 It's me
+<h2 align="center">
   - 📫 How to reach me: qudgh9709@gmail.com 
 
 
