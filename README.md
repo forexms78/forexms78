@@ -4,15 +4,13 @@
   - 📫 How to reach me: qudgh9709@gmail.com 
 
 <p align="center">
-	//velog
-  <a href="[사이트주소](https://velog.io/@bellboy)">
+  <a href="사이트주소">
   	<img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=
     flat-square&logo=Vimeo&logoColor=white&link=사이트주소"/>
   </a>
-  //gmail
   <a href="mailto:qudgh9709@gmail.com">
   	<img src="https://img.shields.io/badge/Gmail-d14836?style=
-    flat-square&logo=Gmail&logoColor=white&link=이메일주소"/>
+    flat-square&logo=Gmail&logoColor=white&link=qudgh9709@gmail.com"/>
   </a>
 </p>
   
