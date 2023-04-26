@@ -6,9 +6,9 @@
 <h1 align="center"> 🏻🧑🏻‍💻 About Me </h1> <br>
 
 Welcome to my GitHub.🫶 
-* I'm studying in the department of Ai at Gachon Univ.🥰
-* I'm interested in analyzing the data and drawing it with a Python program. 📊
-
+* 
+* 
+  
 <br>
 <hr>
 <h2 align="center">Contact Me!📥</h2><br>
