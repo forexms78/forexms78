@@ -36,7 +36,7 @@ Welcome to my GitHub.🫶
 
 <h2 align="center">🛠️ Stack Tools🛠️ </h2> <br>
 <div align="center"> <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/></a>  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/></a>   
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"/></a>   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/></a>    </div>
+   </div>
 <br><br><br>
 
 
