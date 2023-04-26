@@ -2,6 +2,9 @@
 
 <h2 align="center">
   
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=뱃지모양&logo=C&logoColor=로고색상"/>
+
+  
 <img src="https://img.shields.io/badge/C-A8B9CC?style=뱃지모양&logo=C&logoColor=로고색상"/>
 
 <img src="https://img.shields.io/badge/python-#3776AB?style=뱃지모양&logo=로고&logoColor=로고색상"/>
