@@ -3,7 +3,7 @@
 <h2 align="center">
   
 
-<h1 align="center"> 🏻🧑🏻‍💻 About Me </h1> <br>
+<h1 align="center"> 🧑🏻‍💻 About Me </h1> <br>
 
 Welcome to my GitHub.🫶 
 * 공사중 공사중 공사중
