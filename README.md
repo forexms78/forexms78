@@ -3,7 +3,7 @@
 <h2 align="center">
   
 
-<h1 align="center"> 👩🏻‍💻 About Me </h1> <br>
+<h1 align="center"> 🏻🧑🏻‍💻 About Me </h1> <br>
 
 Welcome to my GitHub.🫶 
 * I'm studying in the department of Ai at Gachon Univ.🥰
