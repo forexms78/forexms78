@@ -16,7 +16,15 @@ Welcome to my GitHub.🫶
 <a href="https://velog.io/@bellboy"><img src="https://img.shields.io/badge/bellboy%20velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@bellboy"/></a><br><br><br>
 
 <h2 align="center">📚Tech Stack📚</h2> <br>
-<div align="center"> <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Java-red?style=flat&logo=Java&logoColor=white"/></a> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></a> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MYSQL&logoColor=white"/></a> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/></a> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/></a> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/></a><br><br><br>
+<div align="center"> 
+ <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a> 
+ <img src="https://img.shields.io/badge/Java-red?style=flat&logo=Java&logoColor=white"/></a> 
+ <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a> 
+ <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></a> 
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MYSQL&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/></a> 
+ <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/></a><br><br><br>
 
 
 <h2 align="center">🛠️ Stack Tools🛠️ </h2> <br>
