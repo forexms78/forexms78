@@ -12,7 +12,7 @@ Welcome to my GitHub.🫶
 <br>
 <hr>
 <h2 align="center">Contact Me!📥</h2><br>
-<div align="center"><img src="https://img.shields.io/badge/tia510@gachon.ac.kr-white?style=flat&logo=Gmail"/></a>
+<div align="center"><img src="https://img.shields.io/badge/qudgh9709@gmail.com-white?style=flat&logo=Gmail"/></a>
 <a href="https://velog.io/@chae0510"><img src="https://img.shields.io/badge/chae's%20velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@chae0510"/></a><br><br><br>
 
 <h2 align="center">📚Tech Stack📚</h2> <br>
