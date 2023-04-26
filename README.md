@@ -6,8 +6,8 @@
 <h1 align="center"> 🏻🧑🏻‍💻 About Me </h1> <br>
 
 Welcome to my GitHub.🫶 
-* 
-* 
+* 공사중 공사중 공사중
+* 🔨⚒️🚧🦺
   
 <br>
 <hr>
