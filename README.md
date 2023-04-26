@@ -17,6 +17,7 @@ Welcome to my GitHub.🫶
 
 <h2 align="center">📚Tech Stack📚</h2> <br>
 <div align="center"> 
+   <img src="https://img.shields.io/badge/react-#61DAFB?style=flat&logo=React&logoColor=white"/></a> 
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a> 
  <img src="https://img.shields.io/badge/Java-red?style=flat&logo=Java&logoColor=white"/></a> 
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a> 
