@@ -1,4 +1,4 @@
-![](![github](/images/icon.png))
+![github](/images/icon.png)
 
 
 - 📫 How to reach me: qudgh9709@gmail.com 
