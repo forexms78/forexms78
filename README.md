@@ -32,14 +32,10 @@ Welcome to my GitHub.🫶
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=black">
   
-
-
-
 <h2 align="center">🛠️ Stack Tools🛠️ </h2> <br>
 <div align="center"> <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/></a>  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/></a>   
    </div>
 <br><br><br>
-
 
 ![Profile views](https://gpvc.arturio.dev/forexms78)  
 </h3>
