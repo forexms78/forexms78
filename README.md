@@ -1,6 +1,7 @@
 ![github](/images/icon.png)
 
 <h2 align="center">
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?bojbellboy78)](https://solved.ac/bellboy78)
 
 <h1 align="center"> 🧑🏻‍💻 About Me </h1> <br>
