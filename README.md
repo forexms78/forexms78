@@ -1,4 +1,3 @@
-
 <h2 align="center">
 
 ![forexms78's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=bellboy78)
@@ -21,5 +20,4 @@
    </div>
 <br><br><br>
 
-![Profile views](https://gpvc.arturio.dev/forexms78)  
 </h3>
