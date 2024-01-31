@@ -4,6 +4,8 @@
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?bojbellboy78)](https://solved.ac/bellboy78)
 
+![forexms78's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=bellboy78)
+
 <h1 align="center"> 🧑🏻‍💻 About Me </h1> <br>
 
 //
