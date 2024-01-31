@@ -2,6 +2,8 @@
 
 <h2 align="center">
 
+![forexms78's Project Euler stats](https://projecteuler.net/profile/bellboy78.png)
+
 ![forexms78's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=bellboy78)
 
 <h1 align="center"> 🧑🏻‍💻 About Me </h1> <br>
