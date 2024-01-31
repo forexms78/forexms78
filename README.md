@@ -1,10 +1,12 @@
 <h2 align="center">
 
-![forexms78's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=bellboy78)
+
 
 <h1 align="center"> 🧑🏻‍💻 About Me </h1> <br>
 
-//
+![forexms78's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=bellboy78)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forexms78)](https://github.com/anuraghazra/github-readme-stats)
   
 <br>
 <hr>
