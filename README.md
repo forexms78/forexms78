@@ -6,7 +6,7 @@
 
 ![forexms78's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=bellboy78)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forexms78)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=forexms78)](https://github.com/anuraghazra/github-readme-stats)
   
 <br>
 <hr>
