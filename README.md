@@ -1,8 +1,11 @@
 ![github](/images/icon.png)
 
 <h2 align="center">
-  
+![forexms78's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=bellboy78)
+- [Baekjoon Online Judge](https://www.acmicpc.net/user/bellboy78)
 
+![jh05013's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jh05013)
+- [Baekjoon Online Judge](https://www.acmicpc.net/user/jh05013)
 <h1 align="center"> 🧑🏻‍💻 About Me </h1> <br>
 
 //
